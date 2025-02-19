@@ -1,2 +1,3 @@
 # cpp-study
-cpp study
+
+Road to cpp master
