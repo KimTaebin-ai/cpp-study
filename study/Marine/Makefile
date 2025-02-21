@@ -1,6 +1,6 @@
 NAME = Marine_Program
 
-CPPFLAGS = -Wall -Wextra -Werror -std=c++98
+CPPFLAGS = -std=c++98
 
 C++ = clang++
 # C++ = g++
